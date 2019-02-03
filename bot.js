@@ -107,6 +107,4 @@ client.on("guildMemberAdd", member => {
       }
       });
       
-      
- // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+ client.login('NTQxNjgyODM1MzEzMDAwNDcw.DzjA-g.rJiocBgaXL6vPl7mO581h_fZVfQ'); 
