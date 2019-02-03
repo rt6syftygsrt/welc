@@ -106,5 +106,5 @@ client.on("guildMemberAdd", member => {
       
       }
       });
-      
- client.login('NTQxNjgyODM1MzEzMDAwNDcw.DzjA-g.rJiocBgaXL6vPl7mO581h_fZVfQ'); 
+ // THIS  MUST  BE  THIS  WAY
+client.login(NTQxNjgyODM1MzEzMDAwNDcw.DzjA-g.rJiocBgaXL6vPl7mO581h_fZVfQ);
